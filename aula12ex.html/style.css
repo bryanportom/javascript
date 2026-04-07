@@ -1,0 +1,34 @@
+@charset 'UTF-8';
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightskyblue;
+}
+
+header {
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.426);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    
+}
